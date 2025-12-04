@@ -28,5 +28,3 @@ These projects simulate real-time embedded, IoT, automation, and energy monitori
 - Spring Data JPA  
 - PostgreSQL  
 - Maven  
-## Folder Structure
-
