@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tnsif</groupId>
-	<artifactId>bugtracker</artifactId>
+	<artifactId>solar-monitoring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BugTracker-backend</name>
-	<description>Bug Tracking Application</description>
+	<name>solar-monitoring-backend</name>
+	<description>Electronic Component Inventory Management System</description>
 	<url/>
 	<licenses>
 		<license/>

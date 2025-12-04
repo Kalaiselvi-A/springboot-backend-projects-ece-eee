@@ -1,13 +1,13 @@
-package com.tnsif.bugtracker;
+package com.tnsif.solar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BugTrackerBackendApplication {
+public class SolarMonitoringBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BugTrackerBackendApplication.class, args);
+		SpringApplication.run(SolarMonitoringBackendApplication.class, args);
 	}
 
 }
